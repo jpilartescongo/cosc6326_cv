@@ -36,4 +36,3 @@ def load_drone_imgs(directory, files):
     return imgs
 
 # --------------------------------------------------------
-# load drone images into workspace and display one of them 
